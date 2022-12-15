@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Репетитор по английскому языку</title>
+    <link href="https://mrthomaverick.github.io/gh-pages/feed.xml" rel="self" />
+    <link href="https://mrthomaverick.github.io/gh-pages" />
+    <updated>2022-12-15T16:39:59+03:00</updated>
+    <author>
+        <name>Мария Дмитриевна</name>
+    </author>
+    <id>https://mrthomaverick.github.io/gh-pages</id>
+
+    <entry>
+        <title>Репетитор по английскому языку в Севастополе  +7 978 604 36 21             </title>
+        <author>
+            <name>Мария Дмитриевна</name>
+        </author>
+        <link href="https://mrthomaverick.github.io/gh-pages/repetitor-po-angliysk.html"/>
+        <id>https://mrthomaverick.github.io/gh-pages/repetitor-po-angliysk.html</id>
+        <media:content url="https://mrthomaverick.github.io/gh-pages/media/posts/1/english-lettering-yellow-background_23-2148293443.webp" medium="image" />
+
+        <updated>2022-12-15T16:39:59+03:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://mrthomaverick.github.io/gh-pages/media/posts/1/english-lettering-yellow-background_23-2148293443.webp" alt="" />
+                    Здравствуйте! Предлагаю услуги репетитора по английскому языку для школьников 1-9 классов. Обучение с 0, научу читать ,писать и говорить на английском языке. Повысить успеваемость в школе (изучение учебного материала, помощь в выполнении домашних заданий, устранение пробелов в знаниях). Доступно излагаю все грамматические темы. Занятия провожу&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://mrthomaverick.github.io/gh-pages/media/posts/1/english-lettering-yellow-background_23-2148293443.webp" class="type:primaryImage" alt="" /></p>
+                <p>Здравствуйте! <br>Предлагаю услуги репетитора по английскому языку для школьников 1-9 классов. Обучение с 0, научу читать ,писать и говорить на английском языке. Повысить успеваемость в школе (изучение учебного материала, помощь в выполнении домашних заданий, устранение пробелов в знаниях).<br>Доступно излагаю все грамматические темы. Занятия провожу у себя на дому (р-н Горпищенко)</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
